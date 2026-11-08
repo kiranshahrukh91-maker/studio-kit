@@ -1,0 +1,17 @@
+{
+  "name": "studio-kit",
+  "description": "A single-plugin marketplace for the studio-kit email tools.",
+  "owner": {
+    "name": "Kiran"
+  },
+  "plugins": [
+    {
+      "name": "studio-kit",
+      "source": "./",
+      "description": "Resend send guard, personalize skill, email-reviewer agent and headless review script for email studios.",
+      "author": {
+        "name": "Kiran"
+      }
+    }
+  ]
+}
