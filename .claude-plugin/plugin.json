@@ -2,6 +2,7 @@
   "name": "studio-kit",
   "version": "0.1.0",
   "description": "Reusable email-studio tools: a Resend send guard, a per-group personalize skill, an email-reviewer agent and a headless review script.",
+  "license": "MIT",
   "author": {
     "name": "Kiran"
   }
